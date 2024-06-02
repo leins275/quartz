@@ -15,7 +15,7 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <hr />
         <p>
-          © 2024 - {year}
+          © 2021 - {year}
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
