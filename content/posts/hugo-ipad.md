@@ -1,17 +1,10 @@
-+++ 
-draft = false
-katex = false
-authors = ["leins275"]
-date = 2024-03-01T12:00:00+03:00
-title = "Hugo + iPad"
-description = "Как я публикую посты в блог с iPad"
-slug = "hugo-ipad"
-series = ["по теме: Блог"]
-categories = ["post"]
-tags = ["blog"]
-images = ["https://leins275.xyz/img/hugo-ipad/preview.jpg"]
-+++
-
+---
+title: hugo-ipad
+draft: false
+tags: 
+aliases:
+  - iPad для творчества
+---
 # iPad для творчества
 Всем известно, что айпад в первую очередь это устройство для просмотра YouTube. Лично у меня ютуб занимает значительное экранное время. Однако, когда я думал о покупке айпада, у меня было желание использовать его как инструмент для творчества. Поэтому, насмотревшись [разных блогеров](https://youtu.be/PK9zshkvvD8?si=oyGZVXepX7lbqeYj), я купил айпад, стилус и позднее фирменную клавиатуру к нему. 
 

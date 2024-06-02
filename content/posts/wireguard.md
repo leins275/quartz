@@ -1,13 +1,9 @@
-+++ 
-draft = false
-date = 2022-03-18T00:18:42+03:00
-categories = ["article"]
-title = "Скрипты для автоматизации работы с wireguard"
-description = "Дополнение о wireguard"
-slug = "wireguard"
-authors = ["leins275"]
-tags = ["digital"]
-+++
+---
+title: Скрипты автоматизации работы с wireguard
+draft: false
+tags: 
+aliases:
+---
 # Введение
 
 Сейчас vpn актуален как никогда. В этой статье я хочу вставить свои 5 копеек в дополнение к статье `devpew`, предложив несколько
