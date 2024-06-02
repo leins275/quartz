@@ -1,5 +1,5 @@
 ---
-title = "Мои блокноты"
+title: "Мои блокноты"
 ---
 
 ![notebooks](img/Notebooks.jpg)
