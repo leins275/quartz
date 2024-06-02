@@ -3,6 +3,7 @@ title: Postgres для пет проектов
 draft: false
 tags: 
 aliases:
+  - Postgres for pet projects
 ---
 ![postgres-logo](img/preview.png)
 
