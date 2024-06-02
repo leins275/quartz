@@ -1,13 +1,10 @@
-+++ 
-draft = false
-date = 2022-07-24T23:34:25+03:00
-categories = ["article"]
-title = "О пет проектах"
-description = "Что такое пет-проекты, и надо ли их иметь"
-slug = "pet-projects"
-authors = ["leins275"]
-tags = ["digital"]
-+++
+---
+title: О пет проектах
+draft: false
+tags: 
+aliases:
+  - Pet projects
+---
 Все программисты делятся на два типа. Одни считают, что пет-проекты должны быть
 у каждого, другие же ограничиваются исключительно работой.
 
