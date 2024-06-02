@@ -1,15 +1,6 @@
-+++ 
-draft = false
-katex = false
-authors = ["leins275"]
-date = 2023-12-16T19:57:05+03:00
+---
 title = "Мои блокноты"
-description = "Принципы ведения аналоговых заметок"
-slug = "my-notebooks"
-series = ["по теме: Блокноты"]
-tags = ["journaling"]
-images = ["https://leins275.xyz/posts/my-notebooks/img/Notebooks.jpg"]
-+++
+---
 
 ![notebooks](img/Notebooks.jpg)
 
