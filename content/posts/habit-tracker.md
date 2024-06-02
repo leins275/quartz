@@ -1,16 +1,6 @@
-+++ 
-draft = false
-katex = false
-authors = ["leins275"]
-date = 2024-03-09T21:00:00+03:00
-title = "Трекер привычек"
-description = "Следим за привычками на android"
-slug = "habit-tracker"
-series = ["по теме: Джедайские техники"]
-categories = ["post"]
-tags = ["productivity"]
-images = ["https://leins275.xyz/img/habit-tracker/preview.jpg"]
-+++
+---
+title: "Трекер привычек"
+---
 
 ## Самонаблюдение через трекер привычек.
 
