@@ -1,16 +1,10 @@
-+++ 
-draft = false
-katex = false
-categories = ["post"]
-authors = ["leins275"]
-date = 2022-11-15T12:31:25+03:00
-title = "Инвестиции и Спекуляции"
-description = "Как пустить деньги в оборот и не прогадать"
-slug = "itstime-19"
-tags = ["finance"]
-images = ["https://leins275.xyz/posts/invest/img/inv.jpg"]
-+++
-![инвестиции vs спекуляции](img/inv.jpg)
+---
+title: Инвестиции и спекуляции
+draft: false
+tags: 
+aliases:
+---
+![инвестиции vs спекуляции](content/img/inv.jpg)
 
 Если вы занимаетесь инвестициями, мне кажется полезно было бы представлять, как это делать так, чтобы хотя бы не сильно терять деньги)
 
