@@ -1,17 +1,10 @@
-+++ 
-draft = false
-katex = false
-authors = ["leins275"]
-date = 2023-03-20T15:41:50+03:00
-title = "Скимминг"
-description = "Как выжимать знания из книг. Быстро, точно, надежно."
-categories = ["article"]
-slug = "skimming"
-tags = ["learning"]
-series = ["по теме: Чтение"]
-images = ["https://leins275.xyz/posts/skimming/img/skimming.jpg"]
-+++
-
+---
+title: skimming
+draft: false
+tags: 
+aliases:
+  - Скимминг
+---
 ![skimming boy](img/skimming.jpg)
 
 В прошлый раз я описывал два метода чтения в заметке об изучении языка. Хочется немного развить эту тему.

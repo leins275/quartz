@@ -3,6 +3,7 @@ title: Скрипты автоматизации работы с wireguard
 draft: false
 tags: 
 aliases:
+  - Скрипты автоматизации работы с wireguard
 ---
 # Введение
 
