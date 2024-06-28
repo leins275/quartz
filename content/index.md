@@ -10,3 +10,4 @@ title: leins275.xyz
 - [[Блог]]
 - [[PKM]]
 - [[Продуктивность]]
+- [[Project management]]
