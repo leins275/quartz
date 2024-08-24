@@ -4,6 +4,7 @@ draft: false
 tags: 
 aliases:
   - Personal Knowledge management
+  - Управление знаниями
 ---
 - [[Способы организации информации]]
 # Полезные ссылки

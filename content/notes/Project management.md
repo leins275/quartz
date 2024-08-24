@@ -4,4 +4,4 @@ draft: false
 tags: 
 aliases:
 ---
-- [[Kanban]]
+- [[05 Research/notes/Kanban]]
