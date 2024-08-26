@@ -11,6 +11,5 @@ aliases:
 
 ![[Снимок экрана 2024-06-04 231646.png]]
 
-- [[PARA System]]
 - [[Способы организации информации]]
 - https://youtu.be/xC1bTRHFXXc?si=NtGPatBjWXUV42Y1
