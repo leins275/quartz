@@ -2,7 +2,8 @@
 title: Todoist
 draft: false
 tags: 
-aliases:
+aliases: 
+date: 28-11-2023
 ---
 В качестве приложения для списков задач и не только я использую Todoist.
 
