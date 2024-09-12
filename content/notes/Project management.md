@@ -2,6 +2,13 @@
 title: Project management
 draft: false
 tags: 
-aliases:
+aliases: 
+uid: 202402242202
+date: 24-02-2024
 ---
 - [[05 Research/notes/Kanban]]
+
+
+
+---
+- [[ITS - management]]
