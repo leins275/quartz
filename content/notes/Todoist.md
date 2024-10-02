@@ -12,6 +12,14 @@ date: 28-01-2024
 - [[Продуктивность|Productivity]]
 - [[Методология работы в тудуист]]
 - [[Todoist - главное оружие джедая]]
+# Цвета проектов в Todoist
+- Selfcare
+- Job
+- Legal
+- Chore
+- Other
+
+
 
 # Todoist 2.0
 # 20.03.2024
