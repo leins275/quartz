@@ -1,8 +1,11 @@
 ---
-uid:  202208041435
+uid: 202208041435
 title: Unit testing principes
 date: 2022-08-04
 time: 14:35
+aliases:
+  - Принципы юнит тестирования
+  - FIRST
 ---
 
 # FIRST

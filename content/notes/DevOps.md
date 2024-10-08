@@ -3,7 +3,7 @@ title: DevOps - Tooling
 aliases:
 ---
 - [[AWS]]
-- [[Linux]]
+- [[Operating systems]]
 - [[Jenkins]]
 - [[Коммандные оболочки unix]]
 - [[Ngrok]]
