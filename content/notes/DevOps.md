@@ -8,3 +8,4 @@ aliases:
 - [[Коммандные оболочки unix]]
 - [[Ngrok]]
 - [[Текстовый редактор VIM|VIM]]
+- [[Kubernetes]]
