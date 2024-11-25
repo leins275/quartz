@@ -1,7 +1,0 @@
-- [[Как синхронизировать ветки в удаленных репозиториях через локальный]]
-- [[Git - Cherry pick|Cherry pick]]
-- [[Git change remote origin]]
-- [[Git - untrack files]]
-- [[Git - как очистить историю коммитов]]
-- [[Git - merge]]
-- [[Git - delete local branches]]
