@@ -1,6 +1,9 @@
 ---
-title: <% tp.file.title %>
+title: "{{title}}"
+date: "{{date}}"
 draft: false
 tags: 
 aliases:
 ---
+# {{title}}
+
