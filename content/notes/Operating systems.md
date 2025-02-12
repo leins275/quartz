@@ -1,3 +1,0 @@
-- [[MacOS]]
-- [[Linux]]
-- [[Windows]]

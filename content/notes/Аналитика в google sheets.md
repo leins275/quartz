@@ -16,9 +16,3 @@ aliases:
 
 # Листы
 Я использую одну таблицу для аналитики, и несколько листов. Сейчас расскажу поподробней про каждый из них.
-
-- ![[Аналитика в google sheets - Accounts]]
-- ![[Аналитика в google sheets - Subs]]
-- ![[Аналитика в google sheets - Flow]]
-- ![[Аналитика в google sheets - Plans]]
-- ![[Аналитика в google sheets - Schedule]]
