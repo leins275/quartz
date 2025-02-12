@@ -1,9 +1,10 @@
 ---
-title: "Softskills"
-date: "2025-02-01"
+title: Softskills
+date: 2025-02-12
 draft: false
 tags: 
 aliases:
+  - Софтскиллы
 ---
 # Softskills
 
