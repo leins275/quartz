@@ -5,6 +5,7 @@ draft: false
 tags:
   - telegram
 aliases:
+  - Расщепление базы знаний
 ---
 # Расщепление базы знаний
 
