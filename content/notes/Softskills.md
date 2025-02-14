@@ -2,8 +2,7 @@
 title: Softskills
 date: 2025-02-12
 draft: false
-tags:
-  - telegram
+tags: []
 aliases:
   - Софтскиллы
 ---
