@@ -3,7 +3,8 @@ uid:
 title: "{{title}}"
 date: "{{date}}"
 draft: false
-tags: 
+tags:
+  - note
 aliases:
 ---
 # {{title}}
