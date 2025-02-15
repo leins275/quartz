@@ -6,5 +6,4 @@ draft: false
 tags: []
 aliases:
 ---
-# {{title}}
 
