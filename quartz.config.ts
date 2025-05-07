@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       tagId: "G-P72LDSLNJQ"
     },
     locale: "ru-RU",
-    baseUrl: "leins275.xyz",
+    baseUrl: "garden.leins275.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
