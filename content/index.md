@@ -1,8 +1,9 @@
 ---
-title: "index"
+title: "Цифровой сад Никиты Ланскова"
 date: "2025-02-12"
 draft: false
 tags: 
 aliases:
 ---
-# Цифровой сад Никиты Ланскова
+
+TODO: add some content here
