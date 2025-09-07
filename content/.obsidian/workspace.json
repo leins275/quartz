@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Моя информационная инфраструктура.md",
+                "file": "Структура файлов на компьютерах.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Моя информационная инфраструктура"
+              "title": "Структура файлов на компьютерах"
             }
           }
         ]
@@ -141,12 +141,13 @@
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "canvas:Create new canvas": false
+      "canvas:Create new canvas": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c1d300440aadc20a",
   "lastOpenFiles": [
+    "Моя информационная инфраструктура.md",
     "index.md",
     "Obsidian vaults.md",
     "Принципы ведения базы знаний.md",
@@ -154,7 +155,6 @@
     "Canvas/Untitled.canvas",
     "CODE.md",
     "Canvas",
-    "Моя информационная инфраструктура.md",
     "PARA.md",
     "Информация - где и что лежит.md",
     "Мои блокноты.md",
