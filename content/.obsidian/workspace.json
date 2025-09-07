@@ -13,15 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Моя информационная инфраструктура.md",
+                "file": "Мои блокноты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Моя информационная инфраструктура"
+              "title": "Мои блокноты"
+            }
+          },
+          {
+            "id": "6a93dbf0bc74476b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "c09154f026e1da05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Джедайские техники.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Джедайские техники"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,8 +170,13 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "c1d300440aadc20a",
+  "active": "6a93dbf0bc74476b",
   "lastOpenFiles": [
+    "Мой подход к ведению Bullet Journal.md",
+    "Метод спусковых крючков.md",
+    "Джедайские техники.md",
+    "Мои блокноты.md",
+    "Моя информационная инфраструктура.md",
     "index.md",
     "Obsidian vaults.md",
     "Принципы ведения базы знаний.md",
@@ -154,10 +184,8 @@
     "Canvas/Untitled.canvas",
     "CODE.md",
     "Canvas",
-    "Моя информационная инфраструктура.md",
     "PARA.md",
     "Информация - где и что лежит.md",
-    "Мои блокноты.md",
     "Структура файлов на компьютерах.md",
     "Заметки.md",
     "IMG_20250906_212907.jpg",
