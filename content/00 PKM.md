@@ -1,16 +1,19 @@
 ---
+aliases:
+  - Personal knowledge management
+  - Управление знаниями
 title: Заметки
 date: 2025-09-06
 draft: false
 tags:
   - quartz
-aliases:
+  - zero-link
 ---
 # Книги о ведении заметок
 1. Как делать полезные заметки. Зонке Аренс
 2. Building a second brain. Tiago Forte
 
 ---
-- [[04 Archives/Мои блокноты]]
+- [[Мои блокноты]]
 - [[Obsidian vaults]]
 - [[04 Archives/Принципы ведения базы знаний]]
