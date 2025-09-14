@@ -3,6 +3,8 @@ title: Цифровой сад Никиты Ланскова
 date: 2025-08-31
 draft: false
 tags:
+  - quartz
+  - root
 aliases:
 ---
 

@@ -2,7 +2,8 @@
 title: Мой подход к ведению Bullet Journal
 date: 2025-09-08
 draft: false
-tags: []
+tags:
+  - quartz
 aliases:
 ---
 # Фокус на логгировании 

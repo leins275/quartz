@@ -2,7 +2,8 @@
 title: CODE
 date: 2025-09-06
 draft: false
-tags: []
+tags:
+  - quartz
 aliases:
 ---
 Методика обработки информации от Tiago Forte.

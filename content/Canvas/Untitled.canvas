@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"7a7b28ce84efbaec","x":-400,"y":-240,"width":400,"height":400,"type":"file","file":"PARA system.md"},
-		{"id":"dc58607e2d193c84","x":20,"y":-240,"width":400,"height":400,"type":"file","file":"CODE.md"}
-	],
-	"edges":[]
-}

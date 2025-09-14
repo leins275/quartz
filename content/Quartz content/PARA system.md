@@ -2,7 +2,8 @@
 title: PARA system
 date: 2025-09-07
 draft: false
-tags: []
+tags:
+  - quartz
 aliases:
   - PARA
 ---

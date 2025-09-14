@@ -1,8 +1,9 @@
 ---
-title: "Идеи pet проектов"
-date: "2025-09-08"
-draft: true
-tags: []
+title: Идеи pet проектов
+date: 2025-09-08
+draft: false
+tags:
+  - quartz
 aliases:
 ---
 # Текстовый редактор
