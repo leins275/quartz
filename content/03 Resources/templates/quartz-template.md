@@ -1,6 +1,6 @@
 ---
-title: "Покер"
-date: "2025-09-14"
+title: "{{title}}"
+date: "{{date}}"
 draft: true
 tags:
   - quartz
