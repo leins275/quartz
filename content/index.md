@@ -23,11 +23,11 @@ aliases:
 ## Профессия
 - [[00 Project management]]
 - [[00 DevOps]]
-- [[01 AWS]]
-- [[00 ITS]]
 - [[00 Programming]]
 ## Хобби
 - [[00 Blog]]
 - [[00 Психология]]
 - [[00 Life school]]
 - [[00 Math]]
+## Private
+- [[00 ITS]]
