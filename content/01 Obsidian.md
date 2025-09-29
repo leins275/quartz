@@ -3,6 +3,7 @@ title: Obsidian
 draft: false
 tags:
   - quartz
+  - link
 aliases:
 ---
 # Структура 

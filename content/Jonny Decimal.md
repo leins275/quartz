@@ -14,5 +14,5 @@ aliases:
 
 
 - [[PARA system]]
-- [[Системы организации информации]]
+- [[01 Способы организации информации]]
 - https://youtu.be/xC1bTRHFXXc?si=NtGPatBjWXUV42Y1

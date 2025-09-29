@@ -53,5 +53,6 @@ aliases:
 Рекоммендуется выполнять ее каждые три часа: 9:00, 12:00, 15:00, 18:00, 21:00
 
 ---
-- [BMCHN YouTube](https://www.youtube.com/@bmchn)
 - [[Управление своим вниманием]]
+---
+- [BMCHN YouTube](https://www.youtube.com/@bmchn)
