@@ -6,4 +6,5 @@ tags:
 aliases:
 ---
 - [[ZSH]]
+- [[Create a swapfile]]
 - [[Quartz on GitHub Pages - how to]]
