@@ -5,5 +5,4 @@ draft: false
 tags: 
 aliases:
 ---
-
-Здесь пока пусто.
+- [[ZSH]]

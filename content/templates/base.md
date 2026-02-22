@@ -1,8 +1,7 @@
 ---
-uid: 
 title: "{{title}}"
 date: "{{date}}"
-draft: true
+draft: false
 tags: []
 aliases:
 ---
