@@ -1,7 +1,7 @@
 ---
 title: "{{title}}"
 date: "{{date}}"
-draft: false
+draft: true
 tags: []
 aliases:
 ---
