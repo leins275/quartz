@@ -6,3 +6,4 @@ tags:
 aliases:
 ---
 - [[ZSH]]
+- [[Quartz on GitHub Pages - how to]]
