@@ -5,8 +5,7 @@ draft: false
 tags: []
 aliases:
 ---
-# Install 
-ubuntu
+# Install ubuntu
 ## Install all software and plugins
 ```bash
 sudo apt update -y && sudo apt install zsh -y
